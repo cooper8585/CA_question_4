@@ -13,7 +13,7 @@ int main() {
     printf("Value of d: %d\n", d);
 
     // Subtract c from d
-    int e = d - c;
+    int e = c - d;
 
     // Print value of e
     printf("Value of e: %d\n", e);
